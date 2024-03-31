@@ -4,3 +4,6 @@ Beta
 (router): Archer C20v4
 (download): google.com
 Beta
+(router):Tô com fome
+(download):youtube.com
+Stable
