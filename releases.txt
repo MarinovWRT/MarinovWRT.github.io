@@ -1,0 +1,3 @@
+(router): Archer C60v1
+(download): google.com
+(version): beta
