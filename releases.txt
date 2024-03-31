@@ -1,6 +1,6 @@
 (router): Archer C60v1
 (download): google.com
-(versão): beta
+Beta
 (router): Archer C20v4
 (download): google.com
-(versão): beta
+Beta
