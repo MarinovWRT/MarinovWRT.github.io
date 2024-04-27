@@ -1,9 +1,6 @@
 (router): Archer C60v1
-(download): google.com
-Beta
+(download): github.com/MarinovWRT/MarinovWRT.github.io/releases/download/v2.0/MarinovWRTv1_Factory_ArcherC60v1BR.bin
+Estável
 (router): Archer C20v4
-(download): google.com
+(download): github.com/MarinovWRT/MarinovWRT.github.io/releases/download/v2.0/MarinovWRTv2_Factory_ArcherC20v4.bin
 Beta
-(router):Tô com fome
-(download):youtube.com
-Stable
