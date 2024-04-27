@@ -1,6 +1,6 @@
 (router): Archer C60v1
-(download): github.com/MarinovWRT/MarinovWRT.github.io/releases/download/v2.0/MarinovWRTv1_Factory_ArcherC60v1BR.bin
+(download): encurtador.com.br/hrxWX
 Estável
 (router): Archer C20v4
-(download): github.com/MarinovWRT/MarinovWRT.github.io/releases/download/v2.0/MarinovWRTv2_Factory_ArcherC20v4.bin
+(download): encurtador.com.br/fwxY6
 Beta
